@@ -1,0 +1,5 @@
+1. come(pinguino, X).
+
+2. comida(Animal).
+
+3. ave(loro).
